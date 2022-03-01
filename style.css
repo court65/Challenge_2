@@ -140,7 +140,7 @@ li a{
         justify-content: center;
         flex-flow: wrap;
     }
-    /* .code-refractor{
+     .penguin-post{
         width: 400px;
         height: 400px;
         background: #fff;
@@ -151,7 +151,7 @@ li a{
         background-image: url("./images/Valintine.jpg");
         background-size: cover;
         background-position: center;
-    } */
+    } 
 
     .code-refractor{
         width: 400px;
