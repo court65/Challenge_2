@@ -52,7 +52,9 @@ li a{
 }
 /* END NAVBAR SECTION */
 
+/* ABOUT SECTION */
 
+/* END ABOUT SECTION */
 
 /* HERO SECTION */
 .container {
@@ -148,7 +150,7 @@ li a{
         box-shadow: -15px 7px 30px rgba(0, 0, 0, 0.2);
         border-radius: 10px;
         margin: 50px;
-        background-image: url("./images/Valintine.jpg");
+        background-image: url("./images/Penguin-post-login.png");
         background-size: cover;
         background-position: center;
     } 
@@ -207,11 +209,10 @@ li a{
 
 .button {
     border: 5px solid var(--blue-text);
-    width: 100px;
+    width: 400px;
     box-shadow: -15px 7px 30px rgba(0, 0, 0, 0.2);
     padding: 15px;
     margin-bottom: 50px;
 }
 
 
-/* ABOUT SECTION */
